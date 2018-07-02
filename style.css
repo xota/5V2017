@@ -1,0 +1,10 @@
+body {
+
+}
+
+p {
+    border-radius: 25px;     /* afgeronde hoeken */
+    background: #000099;     /* blauwige achtergrond */
+    padding: 20px;
+    width: 400px;
+}
