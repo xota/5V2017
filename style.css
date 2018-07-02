@@ -1,10 +1,11 @@
 body {
-
+    background: #000099;     /* blauwige achtergrond */
 }
 
 p {
     border-radius: 25px;     /* afgeronde hoeken */
-    background: #000099;     /* blauwige achtergrond */
+    background: #ddddff;     /* lichtblauwige achtergrond */
     padding: 20px;
+    margin: 30px;
     width: 400px;
 }
