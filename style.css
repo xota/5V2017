@@ -9,3 +9,7 @@ p {
     margin: 30px;
     width: 400px;
 }
+
+ol {
+    display: inline-block;
+}
